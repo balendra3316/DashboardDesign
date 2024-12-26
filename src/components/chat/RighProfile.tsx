@@ -5,7 +5,7 @@ import { RiGlobalFill, RiMoneyDollarCircleFill } from "react-icons/ri";
 import { IoPersonSharp } from "react-icons/io5";
 import { FaBoxArchive } from "react-icons/fa6";
 import { HiClock } from "react-icons/hi";
-import { TiShoppingCart } from "react-icons/ti";
+
 import { MdAlternateEmail, MdLocalPhone } from "react-icons/md";
 import { AiFillClockCircle } from "react-icons/ai";
 
